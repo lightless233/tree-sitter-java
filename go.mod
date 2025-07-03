@@ -1,4 +1,4 @@
-module github.com/tree-sitter/tree-sitter-java
+module github.com/lightless233/tree-sitter-java
 
 go 1.22
 
